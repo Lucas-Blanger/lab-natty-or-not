@@ -1,51 +1,46 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Natty or Not: Desafio de IA Generativa 💪🤓
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é inspirado na tendência "Natty or Not" do fisiculturismo e explora o mundo das IAs Generativas. O objetivo é criar conteúdos realistas e criativos utilizando tecnologias de IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **GPT-4**: Utilizado para gerar textos descritivos e narrativas realistas.
+- **DALL-E**: Utilizado para criar imagens realistas baseadas em descrições textuais.
+- **Stable Diffusion**: Utilizado para aprimorar a qualidade das imagens geradas.
+- **Python**: Linguagem de programação utilizada para integrar as diferentes IAs e automatizar processos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descreva aqui o processo de desenvolvimento do projeto:
+1. **Planejamento**: Definição dos objetivos e escolha das IAs Generativas.
+2. **Implementação**: Detalhe como você utilizou cada IA para gerar o conteúdo.
+   - Utilização do GPT-4 para criar descrições textuais realistas.
+   - Uso do DALL-E para gerar imagens baseadas nas descrições.
+   - Refinamento das imagens com Stable Diffusion.
+3. **Edição e Ajustes**: Como você refinou os resultados gerados pelas IAs.
+4. **Integração**: Combinação dos diferentes componentes do projeto em um produto final.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados obtidos:
+- **Texto Gerado**: Exemplo de descrição criada com GPT-4.
+  - _"Um fisiculturista de 30 anos, com um físico impressionante, músculos bem definidos e simetria perfeita."_
+- **Imagens Criadas**: Exemplos de imagens geradas com DALL-E e aprimoradas com Stable Diffusion.
+  - ![Imagem Gerada 1](lab-natty-or-not\img\img1.png)
+  - ![Imagem Gerada 2](lab-natty-or-not\img\img2.png)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Comente sobre a experiência de trabalhar com IAs Generativas e os desafios de criar algo que pareça "natty" (natural):
+- Quais foram os maiores desafios?
+  - Desafio de gerar descrições realistas e coerentes.
+  - Ajustes necessários para que as imagens parecessem naturais.
+- O que você aprendeu durante o processo?
+  - Aprendi a integrar diferentes tecnologias de IA para obter melhores resultados.
+- Como essa experiência pode ser aplicada em outros projetos?
+  - A experiência pode ser aplicada na criação de conteúdo para marketing, jogos e outras áreas que requerem geração automática de conteúdo.
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Sinta-se à vontade para compartilhar seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot e não se esqueça de submeter o link do seu repositório na plataforma da DIO.
 
-## Links Interessantes
+---
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Feito com ❤️ por Lucas Blanger.
